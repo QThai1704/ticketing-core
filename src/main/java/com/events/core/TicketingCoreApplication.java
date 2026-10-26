@@ -1,4 +1,4 @@
-package events.com.events.core;
+package com.events.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
